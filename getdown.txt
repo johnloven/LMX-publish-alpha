@@ -1,0 +1,11 @@
+# The URL from which the client is downloaded
+appbase = https://raw.githubusercontent.com/johnloven/LMX-publish/master/
+
+# UI Configuration
+ui.name = LMX Updater
+
+# Application jar files
+code = LMX.jar
+
+# The main entry point for the application
+class = se.larandematriser.main.StartDialog
