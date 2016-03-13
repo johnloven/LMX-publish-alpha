@@ -15,5 +15,3 @@ ui.progress = 10, 10, 800, 50
 ui.status = 10, 10, 800, 50
 ui.progress_bar = a5e79b
 ui.status_text = a5e79b
-Ddirect=true
-java_min_version = 1.7
