@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <info>
+    <name>testname</name>
+    <id>testid</id>
+    <school>Grundskola</school>
+    <subject>testsubject</subject>
+    <grade>teststate</grade>
+  </info>
+  <know>
+    <intro>
+      <text>testintro</text>
+    </intro>
+    <e>
+      <text>teste</text>
+    </e>
+    <c>
+      <text>testc</text>
+      <text>testc2</text>
+    </c>
+    <a>
+      <text>testa</text>
+    </a>
+  </know>
+  <know>
+    <intro>
+      <text>asd</text>
+    </intro>
+    <e>
+      <text>asd</text>
+      <text>fgh</text>
+    </e>
+    <c>
+      <text>dffgh</text>
+    </c>
+    <a>
+      <text>hj</text>
+      <text>fgh</text>
+    </a>
+  </know>
+</list>
