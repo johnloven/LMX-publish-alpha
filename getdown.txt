@@ -4,8 +4,14 @@ appbase = https://raw.githubusercontent.com/johnloven/LMX-publish/master/
 # UI Configuration
 ui.name = LMX Updater
 
+
 # Application jar files
 code = LMX.jar
 
 # The main entry point for the application
 class = se.larandematriser.main.StartDialog
+
+ui.progress = 10, 10, 800, 50
+ui.status = 10, 10, 800, 50
+ui.progress_bar = a5e79b
+ui.status_text = a5e79b
