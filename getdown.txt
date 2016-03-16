@@ -11,6 +11,8 @@ code = LMX.jar
 # The main entry point for the application
 class = se.larandematriser.main.StartDialog
 
+resource = LMX.exe
+
 ui.progress = 10, 10, 800, 50
 ui.status = 10, 10, 800, 50
 ui.progress_bar = a5e79b
