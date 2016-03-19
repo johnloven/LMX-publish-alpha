@@ -1,4 +1,4 @@
 getdown.txt = 5ecf4c7df8d6c87f51aedac11b41c80e
-LMX.jar = ef05ad29bb7e50fec58de4866e29e13a
+LMX.jar = 5d68977fb2c17e983aa85194df9556a7
 LMX.exe = 88a2569427bb0946a0add9efe8ca2142
-digest.txt = f1eed9d445525ac29fc8e7b7c8bea726
+digest.txt = 046640930c686055e23de60c79552acf
