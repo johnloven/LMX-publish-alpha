@@ -1,32 +1,35 @@
-2016/03/23 20:07:39:205 INFO n.a: ------------------ VM Info ------------------
-2016/03/23 20:07:39:206 INFO n.a: -- OS Name: Linux
-2016/03/23 20:07:39:206 INFO n.a: -- OS Arch: amd64
-2016/03/23 20:07:39:206 INFO n.a: -- OS Vers: 3.16.0-48-generic
-2016/03/23 20:07:39:207 INFO n.a: -- Java Vers: 1.7.0_79
-2016/03/23 20:07:39:207 INFO n.a: -- Java Home: /usr/lib/jvm/java-7-openjdk-amd64/jre
-2016/03/23 20:07:39:207 INFO n.a: -- User Name: john
-2016/03/23 20:07:39:207 INFO n.a: -- User Home: /home/john
-2016/03/23 20:07:39:207 INFO n.a: -- Cur dir: /home/john/Programming/Java/LMX-publish
-2016/03/23 20:07:39:207 INFO n.a: ---------------------------------------------
-2016/03/23 20:07:39:227 INFO n.a: ---------------- Proxy Info -----------------
-2016/03/23 20:07:39:227 INFO n.a: -- Proxy Host: null
-2016/03/23 20:07:39:227 INFO n.a: -- Proxy Port: null
-2016/03/23 20:07:39:227 INFO n.a: ---------------------------------------------
-2016/03/23 20:07:39:232 INFO n.a: Able to lock for updates: true
-2016/03/23 20:07:39:264 INFO n.a: Verifying application: https://raw.githubusercontent.com/johnloven/LMX-publish/master/
-2016/03/23 20:07:39:264 INFO n.a: Version: -1
-2016/03/23 20:07:39:264 INFO n.a: Class: se.larandematriser.main.StartDialog
-2016/03/23 20:07:39:265 INFO n.a: Dropping status 'm.validating'.
-2016/03/23 20:07:39:275 INFO n.a: Attempting to refetch 'digest.txt' from 'https://raw.githubusercontent.com/johnloven/LMX-publish/master/digest.txt'.
-2016/03/23 20:07:39:700 INFO n.a: No signers, not verifying file [path=digest.txt]
-2016/03/23 20:07:39:700 INFO n.a: Resource failed digest check [rsrc=getdown.txt, computed=2930a692cfd6a149a158772807cc9ff1, expected=5ecf4c7df8d6c87f51aedac11b41c80e]
-2016/03/23 20:07:39:700 INFO n.a: Attempting to refetch 'getdown.txt' from 'https://raw.githubusercontent.com/johnloven/LMX-publish/master/getdown.txt'.
-2016/03/23 20:07:39:737 INFO n.a: Attempting to refetch 'digest.txt' from 'https://raw.githubusercontent.com/johnloven/LMX-publish/master/digest.txt'.
-2016/03/23 20:07:39:774 INFO n.a: No signers, not verifying file [path=digest.txt]
-2016/03/23 20:07:39:775 INFO n.a: Resource failed digest check [rsrc=getdown.txt, computed=2930a692cfd6a149a158772807cc9ff1, expected=5ecf4c7df8d6c87f51aedac11b41c80e]
-2016/03/23 20:07:39:775 WARNING n.a: getdown.txt failed to validate even after redownloading. Blindly forging onward.
-2016/03/23 20:07:39:831 INFO n.a: Resources verified.
-2016/03/23 20:07:39:837 INFO n.a: Releasing lock
-Program path: /home/john/Programming/Java/LMX-publish/
-LM-folder path: /home/john/Programming/Java/LMX-publish/Lärandematriser/
-LM-folder path (again): /home/john/Programming/Java/LMX-publish/Lärandematriser
+2016/03/23 20:09:38:020 INFO n.a: ------------------ VM Info ------------------
+2016/03/23 20:09:38:021 INFO n.a: -- OS Name: Linux
+2016/03/23 20:09:38:021 INFO n.a: -- OS Arch: amd64
+2016/03/23 20:09:38:021 INFO n.a: -- OS Vers: 3.16.0-48-generic
+2016/03/23 20:09:38:021 INFO n.a: -- Java Vers: 1.7.0_79
+2016/03/23 20:09:38:021 INFO n.a: -- Java Home: /usr/lib/jvm/java-7-openjdk-amd64/jre
+2016/03/23 20:09:38:021 INFO n.a: -- User Name: john
+2016/03/23 20:09:38:021 INFO n.a: -- User Home: /home/john
+2016/03/23 20:09:38:021 INFO n.a: -- Cur dir: /home/john/Programming/Java/LMX-publish
+2016/03/23 20:09:38:021 INFO n.a: ---------------------------------------------
+2016/03/23 20:09:38:042 INFO n.a: ---------------- Proxy Info -----------------
+2016/03/23 20:09:38:042 INFO n.a: -- Proxy Host: null
+2016/03/23 20:09:38:042 INFO n.a: -- Proxy Port: null
+2016/03/23 20:09:38:042 INFO n.a: ---------------------------------------------
+2016/03/23 20:09:38:046 INFO n.a: Able to lock for updates: true
+2016/03/23 20:09:38:079 INFO n.a: Verifying application: https://raw.githubusercontent.com/johnloven/LMX-publish/master/
+2016/03/23 20:09:38:079 INFO n.a: Version: -1
+2016/03/23 20:09:38:079 INFO n.a: Class: se.larandematriser.main.StartDialog
+2016/03/23 20:09:38:079 INFO n.a: Dropping status 'm.validating'.
+2016/03/23 20:09:38:089 INFO n.a: Attempting to refetch 'digest.txt' from 'https://raw.githubusercontent.com/johnloven/LMX-publish/master/digest.txt'.
+2016/03/23 20:09:38:642 INFO n.a: No signers, not verifying file [path=digest.txt]
+2016/03/23 20:09:38:642 INFO n.a: Unversioned digest changed. Revalidating...
+2016/03/23 20:09:38:642 INFO n.a: Resource failed digest check [rsrc=getdown.txt, computed=2930a692cfd6a149a158772807cc9ff1, expected=5ecf4c7df8d6c87f51aedac11b41c80e]
+2016/03/23 20:09:38:642 INFO n.a: Attempting to refetch 'getdown.txt' from 'https://raw.githubusercontent.com/johnloven/LMX-publish/master/getdown.txt'.
+2016/03/23 20:09:38:794 INFO n.a: Attempting to refetch 'digest.txt' from 'https://raw.githubusercontent.com/johnloven/LMX-publish/master/digest.txt'.
+2016/03/23 20:09:38:836 INFO n.a: No signers, not verifying file [path=digest.txt]
+2016/03/23 20:09:38:837 INFO n.a: Resource failed digest check [rsrc=getdown.txt, computed=2930a692cfd6a149a158772807cc9ff1, expected=5ecf4c7df8d6c87f51aedac11b41c80e]
+2016/03/23 20:09:38:837 WARNING n.a: getdown.txt failed to validate even after redownloading. Blindly forging onward.
+2016/03/23 20:09:38:898 INFO n.a: Resources verified.
+2016/03/23 20:09:38:898 INFO n.a: Didn't find any custom environment variables, not setting any.
+2016/03/23 20:09:38:898 INFO n.a: Running /usr/lib/jvm/java-7-openjdk-amd64/jre/bin/java
+  -classpath
+  /home/john/Programming/Java/LMX-publish/./LMX.jar
+  -Dcom.threerings.getdown=true
+  se.larandematriser.main.StartDialog
