@@ -1,5 +1,5 @@
 # The URL from which the client is downloaded
-appbase = https://raw.githubusercontent.com/johnloven/LMX-publish/master/
+appbase = https://raw.githubusercontent.com/johnloven/LMX-publish-alpha/master/
 
 # UI Configuration
 ui.name = LMX Updater
